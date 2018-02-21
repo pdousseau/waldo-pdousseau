@@ -1,0 +1,3 @@
+pytest==3.4.0
+opencv-python==3.4.0.12
+opencv-contrib-python==3.4.0.12
